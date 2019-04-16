@@ -2,7 +2,7 @@
 # 南京李志
 # Musescore乐谱
 - [midi版](Scores/)
-- [吉他谱2015扫描版](image/)
+- [吉他谱2015扫描版](images/)
   因.PDF is too big to upload.故拆分为图片。
    [PDF版](https://t.me/lizhiBB/403)传置电报
   
